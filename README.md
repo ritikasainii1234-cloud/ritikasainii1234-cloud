@@ -40,18 +40,4 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikasainii1234-cloud&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikasainii1234-cloud&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritikasainii1234-cloud&theme=tokyonight"/>
-</p>
-
-<br/>
-
-<p align="center">⭐ Star my repos if you find them useful!</p>
 
