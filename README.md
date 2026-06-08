@@ -54,3 +54,8 @@
 <br/>
 
 <p align="center">⭐ Star my repos if you find them useful!</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikasainii1234-cloud&theme=tokyo-night"/>
+</p>
